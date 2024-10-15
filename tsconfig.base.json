@@ -15,10 +15,6 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@Hotel-invoice": ["invoice/src/index.ts"],
-      "@Hotel-menu": ["menu/src/index.ts"],
-      "@hotel--menu": ["libs/src/index.ts"],
-      "@hotel-menu": ["testing/src/index.ts"],
       "@hotel/invoice": ["libs/invoice/src/index.ts"],
       "@hotel/menu": ["libs/menu/src/index.ts"]
     }
